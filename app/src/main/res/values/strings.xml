@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Banco de dados</string>
+    <string name="type_serie_name">Digite a nome da série</string>
+    <string name="add_serie">Adicionar série</string>
+    <string name="serie_added">Série Adicionada com sucesso</string>
+    <string name="serie_error_to_add">Série Adicionada com sucesso</string>
+
+    <string name="netflix">Netflix</string>
+    <string name="amazon_prime">Amazon Prime</string>
+    <string name="globoplay">Globoplay</string>
+
+    <string-array name="array_streaming">
+        <item>Select streaming</item>
+        <item>@string/netflix</item>
+        <item>@string/amazon_prime</item>
+        <item>@string/globoplay</item>
+    </string-array>
+</resources>
